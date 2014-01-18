@@ -1,4 +1,4 @@
-artificial-human-pacemaker
+Artificial Human Pacemaker
 ==========================
 
 Artificial Human Pacemaker
@@ -18,3 +18,27 @@ components necessary for execution in steady state and without the use of the ac
 
 
 Please Donate and activite partcipate with Free Health Foundation.
+
+
+How To Use
+===========
+
+Download and install that JamaicaVM 6.2 with Eclipse plugin. Download this project. Uncompress. Create a Folder / Directory named pacemaker, under it another Directory name it as src and again another Directory, name it pacemaker. Now move all the files of ths project under :
+
+~ `pacemaker/src/pacemaker/`
+
+You might need to remove the first `pacemaker` directory (root becoming `src` in that case). 
+
+
+How To Contribute
+=================
+
+
+Actively contributing for Free Health Foundation is really needed. Please point towards http://theustomizewindows.com/ and use the contact us form to either contribute for the software part or donate small money.
+
+
+Official Website
+=================
+
+
+Official website is at http://freehealthfoundation.org ; due to limitation of resources, we can not progress on one person's personal effort.
