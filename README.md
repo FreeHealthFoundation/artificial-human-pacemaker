@@ -4,7 +4,6 @@ Artificial Human Pacemaker
 
 ![Human Pacemaker](https://www.gnu.org/graphics/gplv3-127x51.png) 
 
-![Artificial Human Pacemaker](http://upload.wikimedia.org/wikipedia/commons/5/5e/St_Jude_Medical_pacemaker_with_ruler.jpg) 
 
 This project is an implementation of the informal specification of a pacemaker provided by Boston Scientific (2007 ). 
 The specification is being implemented in accordance with the formal specification in Z proposed by Artur Gomes (2010 ). 
@@ -30,7 +29,7 @@ Please Donate and activite partcipate with Free Health Foundation.
 How To Use
 ===========
 
-! [Artificial-Cardiac-Pacemaker-Abhishek-Ghosh](http://thecustomizewindows.com/wp-content/uploads/2014/01/Artificial-Cardiac-Pacemaker-source-code.png)
+![Artificial-Cardiac-Pacemaker-Abhishek-Ghosh](http://thecustomizewindows.com/wp-content/uploads/2014/01/Artificial-Cardiac-Pacemaker-source-code.png)
 
 Download and install that JamaicaVM 6.2 with Eclipse plugin. Download this project. Uncompress. Create a Folder / Directory named pacemaker, under it another Directory name it as src and again another Directory, name it pacemaker. Now move all the files of ths project under :
 
