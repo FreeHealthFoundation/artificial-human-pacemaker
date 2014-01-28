@@ -6,6 +6,10 @@ Artificial Human Pacemaker
 This project is an implementation of the informal specification of a pacemaker provided by Boston Scientific (2007 ). 
 The specification is being implemented in accordance with the formal specification in Z proposed by Artur Gomes (2010 ). 
 
+
+New ! Advanced users read the https://github.com/FreeHealthFoundation/artificial-human-pacemaker/wiki
+
+
 The project is underway at Free Health Foundation fully indipendently.
 
 The purpose of the implementation is to make a real time Java approach to the development of a real-time 
