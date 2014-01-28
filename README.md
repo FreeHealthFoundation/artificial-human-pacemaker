@@ -2,7 +2,7 @@ Artificial Human Pacemaker
 ==========================
 
 
-Artificial Human Pacemaker
+![Artificial Human Pacemaker](https://www.gnu.org/graphics/gplv3-127x51.png) 
 
 This project is an implementation of the informal specification of a pacemaker provided by Boston Scientific (2007 ). 
 The specification is being implemented in accordance with the formal specification in Z proposed by Artur Gomes (2010 ). 
