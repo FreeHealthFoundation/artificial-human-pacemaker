@@ -1,8 +1,6 @@
 Artificial Human Pacemaker
 ==========================
 
-<a href="https://twitter.com/AbhishekCTRL" class="twitter-follow-button" data-show-count="true" data-size="large">Follow @AbhishekCTRL</a>
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
 
 Artificial Human Pacemaker
 
@@ -49,3 +47,20 @@ Official Website
 
 
 Official website is at http://freehealthfoundation.org ; due to limitation of resources, we can not progress on one person's personal effort.
+
+
+<a href="https://twitter.com/AbhishekCTRL" class="twitter-follow-button" data-show-count="true" data-size="large">Follow @AbhishekCTRL</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+
+
+<!-- Place this tag where you want the widget to render. -->
+<div class="g-follow" data-annotation="bubble" data-height="24" data-href="//plus.google.com/103599283279782477391" data-rel="author"></div>
+
+<!-- Place this tag after the last widget tag. -->
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/platform.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
