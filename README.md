@@ -9,7 +9,7 @@ This project is an implementation of the informal specification of a pacemaker p
 The specification is being implemented in accordance with the formal specification in Z proposed by Artur Gomes (2010 ). 
 
 
-New ! Advanced users read the https://github.com/FreeHealthFoundation/artificial-human-pacemaker/wiki
+*New ! Advanced users [read the Wiki](https://github.com/FreeHealthFoundation/artificial-human-pacemaker/wiki)
 
 
 The project is underway at Free Health Foundation fully indipendently.
