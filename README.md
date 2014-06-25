@@ -49,7 +49,7 @@ Official Website
 =================
 
 
-Official website is at http://freehealthfoundation.org ; due to limitation of resources, we can not progress on one person's personal effort.
+Official website is at https://freehealthfoundation.org ; due to limitation of resources, we can not progress on one person's personal effort.
 
 
 <a href="https://twitter.com/AbhishekCTRL" class="twitter-follow-button" data-show-count="true" data-size="large">Follow @AbhishekCTRL</a>
@@ -57,7 +57,7 @@ Official website is at http://freehealthfoundation.org ; due to limitation of re
 
 
 <!-- Place this tag where you want the widget to render. -->
-<div class="g-follow" data-annotation="bubble" data-height="24" data-href="//plus.google.com/103599283279782477391" data-rel="author"></div>
+<div class="g-follow" data-annotation="bubble" data-height="24" data-href="//plus.google.com/+AbhishekGhosh1" data-rel="author"></div>
 
 <!-- Place this tag after the last widget tag. -->
 <script type="text/javascript">
